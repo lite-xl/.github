@@ -25,5 +25,5 @@ A lightweight, simple, fast, feature-filled, and extremely extensible text edito
 [native]:           https://github.com/lite-xl/lite-xl-sample-native-plugin
 [plugins-publish]:  https://github.com/lite-xl/lite-xl-plugins/pulls
 [colors-publish]:   https://github.com/lite-xl/lite-xl-colors/pulls
-[Discord]:          https://discord.gg/RWzqC3nx7K
+[Discord]:          https://discord.gg/UQKnzBhY5H
 [matrix]:           https://matrix.to/#/#lite-xl:matrix.org
